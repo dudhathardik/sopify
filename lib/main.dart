@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
             fontFamily: 'VarelaRound',
           ),
           debugShowCheckedModeBanner: false,
-          title: 'Shopify',
+          title: 'sopify',
           home: auth.isAuth
               ? ProductOverviewScreen()
               : FutureBuilder(

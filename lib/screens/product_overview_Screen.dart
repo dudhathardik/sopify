@@ -52,7 +52,7 @@ class _ProductOverviewScreenState extends State<ProductOverviewScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Shopify'),
+        title: const Text('sopify'),
         centerTitle: true,
         actions: [
           PopupMenuButton(

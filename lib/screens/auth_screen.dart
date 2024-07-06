@@ -71,7 +71,7 @@ class _AuthScreenState extends State<AuthScreen> {
                         ],
                       ),
                       child: const Text(
-                        'Shopify',
+                        'sopify',
                         style: TextStyle(
                           // color: Theme.of(context).accentTextTheme.title.color,
                           color: Colors.black,

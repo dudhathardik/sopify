@@ -13,7 +13,7 @@ class AppDrawer extends StatelessWidget {
       child: Column(
         children: [
           AppBar(
-            title: const Text('Shopify'),
+            title: const Text('sopify'),
             automaticallyImplyLeading: false,
           ),
           const Divider(),
