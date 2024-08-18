@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or suggestions, feel free to reach out:
 
-GitHub: dudhathardik.
-Email: hardikdudhat129@gmail.com
+  GitHub: dudhathardik
+  Email: hardikdudhat129@gmail.com
 
