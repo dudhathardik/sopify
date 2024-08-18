@@ -94,8 +94,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out via GitHub issues or contact the repository owner.
+For any questions or suggestions, feel free to reach out:
 
----
+GitHub: dudhathardik
+Email: hardikdudhat129@gmail.com
 
-This README file provides a comprehensive guide to understanding the project, its structure, and how to get started with development and contributions.
