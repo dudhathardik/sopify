@@ -94,8 +94,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out:
+For any questions or suggestions, feel free to reach out:  
 
-  GitHub: dudhathardik
-  Email: hardikdudhat129@gmail.com
+GitHub: [dudhathardik](https://github.com/dudhathardik)  
+Email: hardikdudhat129@gmail.com
+
 
